@@ -43,8 +43,5 @@ You can now interact with the other functions provided that you know and/or have
 
 ## Authors
 
-Contributors names and contact info
-
-Jarod Jangcan
 [KermitSudoku](https://github.com/KermitSudoku)
 
